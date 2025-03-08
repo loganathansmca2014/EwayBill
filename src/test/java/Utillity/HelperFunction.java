@@ -245,17 +245,6 @@ public class HelperFunction {
         js.executeScript("arguments[0].scrollIntoView(true);", element);
     }
 
-    public static void selectByVisibleText(WebElement element,String visibleText) {
-        try {
-            new Select(element).getOptions()
-                    .stream()
-                    .filter(option -> option.getText().trim().equalsIgnoreCase(visibleText))
-                    .findFirst()
-                    .ifPresent(WebElement::click);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
     public static HelperFunction getInstance() {
         return INSTANCE;
     }
