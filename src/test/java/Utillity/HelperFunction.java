@@ -257,14 +257,12 @@ public class HelperFunction {
         }
     }
 
-    public static void listWebelement(List<WebElement> elementList, String actualString)
+    public static void clickElementFromList(List<WebElement> elements, String textToMatch)
     {
-        List<String> view_Order = elementList.stream().map(WebElement::getText)
-                .collect(Collectors.toList());
-        for (String ActualViewOrder : view_Order) {
-            if (ActualViewOrder.equalsIgnoreCase(actualString)) {
-                elementList.stream().filter(It -> It.getText().equalsIgnoreCase("View order details")).findFirst().ifPresent(WebElement::click);
-                //GlobalFunction.fullpageScreenshot();
+
+        for (WebElement element : elements) {
+            if (element.getText().trim().equalsIgnoreCase(textToMatch)) {
+element.click();                //GlobalFunction.fullpageScreenshot();
                 break;
             }
         }
