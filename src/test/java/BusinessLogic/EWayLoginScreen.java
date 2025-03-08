@@ -136,8 +136,9 @@ if((name!=null)&&addL1!=null)
 }
 if((country!=null)&&state!=null &&city!=null)
 {
+    CreateCustomerLocators.country.click();
     HelperFunction.selectByVisibleText(CreateCustomerLocators.country,country);
-
+HelperFunction.listWebelement(CreateCustomerLocators.countryList,country);
 }
     }
 }

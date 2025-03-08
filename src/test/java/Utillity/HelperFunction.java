@@ -19,6 +19,8 @@ import java.io.IOException;
 import java.time.Duration;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.List;
+import java.util.stream.Collectors;
 
 import static Utillity.BrowserControl.prop;
 import static Utillity.WebDriverFactory.driver;
@@ -247,14 +249,26 @@ public class HelperFunction {
 
     public static void selectByVisibleText(WebElement element,String visibleText) {
         try {
-            new Select(element).getOptions()
-                    .stream()
-                    .filter(option -> option.getText().trim().equalsIgnoreCase(visibleText))
-                    .findFirst()
-                    .ifPresent(WebElement::click);
+            Select select = new Select(element);
+            select.selectByVisibleText(visibleText);
         } catch (Exception e) {
+            System.err.println("Failed to select '" + visibleText + "' from dropdown.");
             e.printStackTrace();
         }
+    }
+
+    public static void listWebelement(List<WebElement> elementList, String actualString)
+    {
+        List<String> view_Order = elementList.stream().map(WebElement::getText)
+                .collect(Collectors.toList());
+        for (String ActualViewOrder : view_Order) {
+            if (ActualViewOrder.equalsIgnoreCase(actualString)) {
+                elementList.stream().filter(It -> It.getText().equalsIgnoreCase("View order details")).findFirst().ifPresent(WebElement::click);
+                //GlobalFunction.fullpageScreenshot();
+                break;
+            }
+        }
+
     }
     public static HelperFunction getInstance() {
         return INSTANCE;
