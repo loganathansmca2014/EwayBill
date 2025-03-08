@@ -1,0 +1,190 @@
+22:33:55.508 [main] INFO  Utillity.ReportGen - ###############################################################
+22:33:55.518 [main] DEBUG Utillity.ReportGen - Report Generation called
+22:33:56.958 [main] DEBUG Utillity.ReportGen - Report Generated
+22:33:56.958 [main] INFO  Utillity.ReportGen - ###############################################################
+22:35:49.545 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:35:49.554 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:35:49.558 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:35:49.561 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:35:49.619 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:35:49.619 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:36:13.222 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:36:13.231 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:36:13.240 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:36:13.241 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:36:13.282 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:36:13.283 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:36:14.524 [main] INFO  Utillity.ReportGen - ###############################################################
+22:36:14.526 [main] DEBUG Utillity.ReportGen - Report Generation called
+22:36:17.581 [main] DEBUG Utillity.ReportGen - Report Generated
+22:36:17.583 [main] INFO  Utillity.ReportGen - ###############################################################
+22:37:28.076 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:37:28.089 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:37:28.098 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:37:28.098 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:37:28.179 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:37:32.192 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:38:30.573 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:38:30.586 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:38:30.594 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:38:30.594 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:38:30.626 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:38:34.810 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:40:54.141 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:40:54.166 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:40:54.178 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:40:54.178 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:40:54.215 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:40:56.082 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:41:21.860 [main] DEBUG Utillity.BrowserControl - URLnull
+22:42:08.332 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:42:08.341 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:42:08.347 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:42:08.347 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:42:08.384 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:42:08.384 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:42:13.000 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+22:42:20.681 [main] INFO  Utillity.ReportGen - ###############################################################
+22:42:20.681 [main] DEBUG Utillity.ReportGen - Report Generation called
+22:42:24.431 [main] DEBUG Utillity.ReportGen - Report Generated
+22:42:24.432 [main] INFO  Utillity.ReportGen - ###############################################################
+22:45:20.102 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:45:20.109 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:45:20.116 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:45:20.117 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:45:20.185 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:45:20.185 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:45:23.725 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+22:45:30.194 [main] INFO  Utillity.ReportGen - ###############################################################
+22:45:30.195 [main] DEBUG Utillity.ReportGen - Report Generation called
+22:45:32.820 [main] DEBUG Utillity.ReportGen - Report Generated
+22:45:32.820 [main] INFO  Utillity.ReportGen - ###############################################################
+22:45:49.482 [main] INFO  Utillity.HelperFunction - Scenario called 
+22:45:49.490 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:45:49.498 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+22:45:49.498 [main] INFO  Utillity.HelperFunction - ###############################################################
+22:45:49.570 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+22:45:49.570 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+22:45:53.766 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+22:46:02.813 [main] INFO  Utillity.ReportGen - ###############################################################
+22:46:02.813 [main] DEBUG Utillity.ReportGen - Report Generation called
+22:46:05.304 [main] DEBUG Utillity.ReportGen - Report Generated
+22:46:05.306 [main] INFO  Utillity.ReportGen - ###############################################################
+23:03:15.650 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:03:15.656 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:03:15.665 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:03:15.665 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:03:15.733 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:03:15.733 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:03:18.982 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:03:26.999 [main] INFO  Utillity.ReportGen - ###############################################################
+23:03:26.999 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:03:29.570 [main] DEBUG Utillity.ReportGen - Report Generated
+23:03:29.570 [main] INFO  Utillity.ReportGen - ###############################################################
+23:04:11.197 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:04:11.206 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:04:11.212 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:04:11.212 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:04:11.290 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:04:16.891 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:04:26.545 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:04:26.553 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:04:26.564 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:04:26.565 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:04:26.591 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:04:26.591 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:04:31.247 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:06:17.793 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:06:17.800 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:06:17.808 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:06:17.808 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:06:17.839 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:06:17.839 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:06:23.688 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:07:28.614 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:07:28.621 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:07:28.629 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:07:28.630 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:07:28.659 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:07:28.659 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:07:32.785 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:08:10.905 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:08:10.914 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:08:10.927 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:08:10.928 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:08:10.956 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:08:10.956 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:08:16.564 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:09:05.422 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:09:05.440 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:09:05.452 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:09:05.453 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:09:05.642 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:09:05.643 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:09:10.203 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:10:12.550 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:10:12.557 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:10:12.563 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:10:12.563 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:10:12.588 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:10:12.588 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:10:15.926 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:10:23.593 [main] INFO  Utillity.ReportGen - ###############################################################
+23:10:23.593 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:10:26.779 [main] DEBUG Utillity.ReportGen - Report Generated
+23:10:26.779 [main] INFO  Utillity.ReportGen - ###############################################################
+23:11:17.288 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:11:17.295 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:11:17.302 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:11:17.302 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:11:17.365 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:11:17.365 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:11:20.953 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:11:28.262 [main] INFO  Utillity.ReportGen - ###############################################################
+23:11:28.262 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:11:31.806 [main] DEBUG Utillity.ReportGen - Report Generated
+23:11:31.806 [main] INFO  Utillity.ReportGen - ###############################################################
+23:13:02.976 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:13:03.015 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:13:03.025 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:13:03.025 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:13:03.121 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:13:03.121 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:13:06.283 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:13:13.443 [main] INFO  Utillity.ReportGen - ###############################################################
+23:13:13.443 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:13:16.804 [main] DEBUG Utillity.ReportGen - Report Generated
+23:13:16.804 [main] INFO  Utillity.ReportGen - ###############################################################
+23:14:04.699 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:14:04.708 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:14:04.713 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:14:04.713 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:14:04.783 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:14:04.784 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:14:11.028 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:14:20.426 [main] INFO  Utillity.ReportGen - ###############################################################
+23:14:20.427 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:14:23.022 [main] DEBUG Utillity.ReportGen - Report Generated
+23:14:23.022 [main] INFO  Utillity.ReportGen - ###############################################################
+23:30:34.436 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:30:34.442 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:30:34.449 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:30:34.450 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:30:34.534 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:30:34.535 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:30:37.948 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:30:45.429 [main] INFO  Utillity.ReportGen - ###############################################################
+23:30:45.429 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:30:47.301 [main] DEBUG Utillity.ReportGen - Report Generated
+23:30:47.301 [main] INFO  Utillity.ReportGen - ###############################################################
+23:32:14.989 [main] INFO  Utillity.HelperFunction - Scenario called 
+23:32:14.995 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:32:15.003 [main] INFO  Utillity.HelperFunction - Test case Name:User should be able to log in to the E-Way Portal
+23:32:15.003 [main] INFO  Utillity.HelperFunction - ###############################################################
+23:32:15.200 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+23:32:15.201 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+23:32:19.514 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+23:32:27.795 [main] INFO  Utillity.ReportGen - ###############################################################
+23:32:27.795 [main] DEBUG Utillity.ReportGen - Report Generation called
+23:32:30.197 [main] DEBUG Utillity.ReportGen - Report Generated
+23:32:30.198 [main] INFO  Utillity.ReportGen - ###############################################################

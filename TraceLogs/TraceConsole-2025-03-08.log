@@ -1,0 +1,236 @@
+08:11:10.155 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:11:10.162 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:11:10.165 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:11:10.166 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:11:10.169 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:11:10.226 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:11:10.227 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:11:14.307 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:11:19.691 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:11:20.573 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:11:20.656 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:11:23.178 [main] INFO  Utillity.ReportGen - ###############################################################
+08:11:23.178 [main] DEBUG Utillity.ReportGen - Report Generation called
+08:11:24.872 [main] DEBUG Utillity.ReportGen - Report Generated
+08:11:24.873 [main] INFO  Utillity.ReportGen - ###############################################################
+08:14:54.653 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:14:54.658 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:14:54.663 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:14:54.664 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:14:54.667 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:14:54.752 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:14:54.752 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:14:57.646 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:15:02.443 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:15:03.402 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:15:03.440 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:15:04.610 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:15:06.259 [main] INFO  Utillity.ReportGen - ###############################################################
+08:15:06.259 [main] DEBUG Utillity.ReportGen - Report Generation called
+08:15:08.003 [main] DEBUG Utillity.ReportGen - Report Generated
+08:15:08.003 [main] INFO  Utillity.ReportGen - ###############################################################
+08:15:27.733 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:15:27.744 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:15:27.750 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:15:27.750 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:15:27.754 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:15:27.825 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:15:27.826 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:15:31.259 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:15:36.911 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:15:37.929 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:15:37.975 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:16:33.543 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:16:33.550 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:16:33.555 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:16:33.555 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:16:33.558 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:16:33.581 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:16:33.581 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:16:36.594 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:16:42.568 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:16:43.642 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:16:43.678 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:16:44.786 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:16:46.246 [main] INFO  Utillity.ReportGen - ###############################################################
+08:16:46.247 [main] DEBUG Utillity.ReportGen - Report Generation called
+08:16:48.042 [main] DEBUG Utillity.ReportGen - Report Generated
+08:16:48.043 [main] INFO  Utillity.ReportGen - ###############################################################
+08:25:26.715 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:25:26.721 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:25:26.726 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:25:26.726 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:25:26.729 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:25:26.787 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:25:26.787 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:25:29.410 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:25:34.415 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:25:35.315 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:25:35.366 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:25:36.584 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:25:38.407 [main] INFO  Utillity.ReportGen - ###############################################################
+08:25:38.407 [main] DEBUG Utillity.ReportGen - Report Generation called
+08:25:40.132 [main] DEBUG Utillity.ReportGen - Report Generated
+08:25:40.132 [main] INFO  Utillity.ReportGen - ###############################################################
+08:26:06.641 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:26:06.647 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:26:06.653 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:26:06.654 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:26:06.657 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:26:06.774 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:26:06.774 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:26:10.347 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:26:15.647 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:26:16.508 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:26:16.593 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:26:27.426 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:27:51.397 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:27:51.406 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:27:51.416 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:27:51.417 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:27:51.427 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:27:51.471 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:27:51.471 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:28:07.008 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:28:07.018 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:28:07.027 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:28:07.027 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:28:07.031 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:28:07.057 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:28:07.057 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:28:10.389 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:28:15.432 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:28:16.371 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:28:16.437 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:28:17.729 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:45:47.633 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:45:47.639 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:45:47.644 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:45:47.644 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:45:47.647 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:45:47.672 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:45:47.672 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:45:50.593 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:45:56.028 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:45:56.994 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:45:57.051 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:45:58.310 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:46:07.664 [main] INFO  Utillity.ReportGen - ###############################################################
+08:46:07.665 [main] DEBUG Utillity.ReportGen - Report Generation called
+08:46:11.563 [main] DEBUG Utillity.ReportGen - Report Generated
+08:46:11.563 [main] INFO  Utillity.ReportGen - ###############################################################
+08:49:34.392 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:49:34.398 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:49:34.403 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:49:34.403 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:49:34.407 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:49:34.478 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:49:34.479 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:49:37.426 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:49:42.037 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:49:42.931 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:49:42.990 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:49:44.162 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:49:45.156 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+08:49:52.194 [main] INFO  Utillity.ReportGen - ###############################################################
+08:49:52.194 [main] DEBUG Utillity.ReportGen - Report Generation called
+08:49:55.348 [main] DEBUG Utillity.ReportGen - Report Generated
+08:49:55.349 [main] INFO  Utillity.ReportGen - ###############################################################
+08:50:29.270 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:50:29.277 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:50:29.285 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:50:29.285 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:50:29.288 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:50:29.357 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:50:29.357 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:50:32.494 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:50:37.069 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:50:41.411 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:50:41.455 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:50:42.555 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:50:43.634 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+08:50:44.092 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
+08:51:31.122 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:51:31.129 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:51:31.134 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:51:31.134 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:51:31.138 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:51:31.161 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:51:31.161 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:51:33.974 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:51:39.315 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:51:40.299 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:51:40.347 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:51:41.565 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:51:42.637 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+08:51:43.109 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
+08:55:30.889 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:55:30.898 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:55:30.904 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:55:30.904 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:55:30.908 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:55:30.936 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:55:30.936 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:55:34.032 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:55:39.412 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:55:40.234 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:55:40.282 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:55:41.363 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:55:42.458 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+08:55:42.975 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
+08:56:36.042 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:56:36.049 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:56:36.055 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:56:36.055 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:56:36.058 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:56:36.081 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:56:36.081 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:56:38.914 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:56:43.694 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:56:44.717 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:56:44.776 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:56:45.947 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:56:47.004 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+08:56:47.524 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
+08:59:08.906 [main] INFO  Utillity.HelperFunction - Scenario called 
+08:59:08.912 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:59:08.917 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+08:59:08.917 [main] INFO  Utillity.HelperFunction - ###############################################################
+08:59:08.921 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+08:59:08.946 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+08:59:08.946 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+08:59:11.824 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+08:59:16.717 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+08:59:17.634 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:59:17.716 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+08:59:18.896 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+08:59:20.162 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+08:59:20.765 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
+09:01:19.250 [main] INFO  Utillity.HelperFunction - Scenario called 
+09:01:19.258 [main] INFO  Utillity.HelperFunction - ###############################################################
+09:01:19.266 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+09:01:19.266 [main] INFO  Utillity.HelperFunction - ###############################################################
+09:01:19.270 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+09:01:19.296 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+09:01:19.296 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+09:01:23.570 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+09:01:28.874 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+09:01:29.851 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+09:01:29.893 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+09:01:31.067 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+09:01:32.207 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+09:01:32.700 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
+09:02:02.514 [main] INFO  Utillity.HelperFunction - Scenario called 
+09:02:02.520 [main] INFO  Utillity.HelperFunction - ###############################################################
+09:02:02.527 [main] INFO  Utillity.HelperFunction - Test case Name:User needs to create a customer onboarding page
+09:02:02.527 [main] INFO  Utillity.HelperFunction - ###############################################################
+09:02:02.531 [main] DEBUG Utillity.HelperFunction - Test case Tag:TC02
+09:02:02.555 [main] DEBUG Utillity.BrowserControl - Driver initiated 
+09:02:02.555 [main] DEBUG Utillity.BrowserControl - Chrome Browser lanuched Successfully
+09:02:05.478 [main] DEBUG Utillity.BrowserControl - URLhttp://eway-dev.keenminds.in/#/authentication/signin
+09:02:10.653 [main] INFO  BusinessLogic.EWayLoginScreen - Login successfull... 
+09:02:11.678 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+09:02:11.738 [main] DEBUG BusinessLogic.EWayLoginScreen - Customer
+09:02:12.927 [main] DEBUG BusinessLogic.EWayLoginScreen - true
+09:02:14.065 [main] DEBUG BusinessLogic.EWayLoginScreen - User clicked next button 
+09:02:14.637 [main] DEBUG BusinessLogic.EWayLoginScreen - John Doe
